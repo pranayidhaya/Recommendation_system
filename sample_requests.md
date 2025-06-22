@@ -99,3 +99,80 @@ Response:
     }
   ]
 }
+
+Example 4
+
+Requested Body:
+
+{
+  "query": "best noise cancelling headphones",
+  "top_k": 3
+}
+
+Response:
+
+{
+  "query": "best noise cancelling headphones",
+  "results": [
+    {
+      "id": 12,
+      "name": "Sony WH-1000XM5",
+      "category": "headphones",
+      "score": 0.71,
+      "description": "Premium over-ear headphones with industry-leading noise cancellation"
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy Buds 2",
+      "category": "earphones",
+      "score": 0.598,
+      "description": "Wireless noise-cancelling earbuds with clear sound"
+    },
+    {
+      "id": 17,
+      "name": "Amazon Echo Dot (5th Gen)",
+      "category": "smart home",
+      "score": 0.254,
+      "description": "Smart speaker with Alexa voice assistant and improved sound"
+    }
+  ]
+}
+
+Example 5
+
+Requested Body:
+
+{
+  "query": "beginner dslr camera",
+  "top_k": 3
+}
+
+Response:
+
+{
+  "query": "beginner dslr camera",
+  "results": [
+    {
+      "id": 22,
+      "name": "Canon EOS 1500D DSLR Camera",
+      "category": "cameras",
+      "score": 0.59,
+      "description": "Beginner-friendly DSLR camera with 24.1 MP sensor"
+    },
+    {
+      "id": 21,
+      "name": "Adidas Duffel Gym Bag",
+      "category": "bags",
+      "score": 0.139,
+      "description": "Durable and spacious gym bag with adjustable strap"
+    },
+    {
+      "id": 20,
+      "name": "HP DeskJet 2331 Printer",
+      "category": "printers",
+      "score": 0.121,
+      "description": "All-in-one color printer for home and student use"
+    }
+  ]
+}
+
