@@ -68,5 +68,110 @@
     "category": "formal shoes",
     "color": "black",
     "description": "Elegant black leather shoes for formal events"
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Buds 2",
+    "category": "earphones",
+    "color": "black",
+    "description": "Wireless noise-cancelling earbuds with clear sound"
+  },
+  {
+    "id": 12,
+    "name": "Sony WH-1000XM5",
+    "category": "headphones",
+    "color": "silver",
+    "description": "Premium over-ear headphones with industry-leading noise cancellation"
+  },
+  {
+    "id": 13,
+    "name": "Apple Watch SE",
+    "category": "smartwatches",
+    "color": "space gray",
+    "description": "Affordable smartwatch with fitness and health tracking features"
+  },
+  {
+    "id": 14,
+    "name": "boAt Stone 350",
+    "category": "bluetooth speakers",
+    "color": "blue",
+    "description": "Compact portable speaker with deep bass and waterproof design"
+  },
+  {
+    "id": 15,
+    "name": "Ray-Ban Clubmaster Sunglasses",
+    "category": "accessories",
+    "color": "brown",
+    "description": "Stylish brown sunglasses with UV protection"
+  },
+  {
+    "id": 16,
+    "name": "Fossil Leather Wallet",
+    "category": "accessories",
+    "color": "tan",
+    "description": "Premium leather wallet with RFID protection and multiple slots"
+  },
+  {
+    "id": 17,
+    "name": "Amazon Echo Dot (5th Gen)",
+    "category": "smart home",
+    "color": "charcoal",
+    "description": "Smart speaker with Alexa voice assistant and improved sound"
+  },
+  {
+    "id": 18,
+    "name": "Philips Hue LED Bulb",
+    "category": "smart lighting",
+    "color": "white and color",
+    "description": "Smart bulb with color changing and app control features"
+  },
+  {
+    "id": 19,
+    "name": "Dell Inspiron 15 Laptop",
+    "category": "laptops",
+    "color": "black",
+    "description": "15-inch laptop with Intel i5 processor and 8GB RAM"
+  },
+  {
+    "id": 20,
+    "name": "HP DeskJet 2331 Printer",
+    "category": "printers",
+    "color": "white",
+    "description": "All-in-one color printer for home and student use"
+  },
+  {
+    "id": 21,
+    "name": "Adidas Duffel Gym Bag",
+    "category": "bags",
+    "color": "grey",
+    "description": "Durable and spacious gym bag with adjustable strap"
+  },
+  {
+    "id": 22,
+    "name": "Canon EOS 1500D DSLR Camera",
+    "category": "cameras",
+    "color": "black",
+    "description": "Beginner-friendly DSLR camera with 24.1 MP sensor"
+  },
+  {
+    "id": 23,
+    "name": "Nova Hair Dryer",
+    "category": "personal care",
+    "color": "pink",
+    "description": "Lightweight pink hair dryer with temperature control"
+  },
+  {
+    "id": 24,
+    "name": "Puma Backpack",
+    "category": "bags",
+    "color": "blue",
+    "description": "Compact backpack for daily and school use"
+  },
+  {
+    "id": 25,
+    "name": "U.S. Polo Assn. T-Shirt",
+    "category": "clothing",
+    "color": "navy",
+    "description": "Casual navy blue cotton t-shirt for men"
   }
 ]
