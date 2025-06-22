@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 90",
+    "category": "sneakers",
+    "color": "black",
+    "description": "Stylish black Nike sneakers with air-cushion sole"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "category": "running shoes",
+    "color": "white",
+    "description": "Lightweight white running shoes with boost cushioning"
+  },
+  {
+    "id": 3,
+    "name": "Puma Street Rider",
+    "category": "sneakers",
+    "color": "black",
+    "description": "Casual black sneakers for everyday use"
+  },
+  {
+    "id": 4,
+    "name": "Converse Chuck Taylor",
+    "category": "canvas shoes",
+    "color": "red",
+    "description": "Classic red canvas high-top Converse sneakers"
+  },
+  {
+    "id": 5,
+    "name": "Reebok Zig Kinetica",
+    "category": "training shoes",
+    "color": "blue",
+    "description": "Blue Reebok shoes designed for gym workouts"
+  },
+  {
+    "id": 6,
+    "name": "Woodland Leather Boots",
+    "category": "boots",
+    "color": "brown",
+    "description": "Rugged brown leather boots for trekking and travel"
+  },
+  {
+    "id": 7,
+    "name": "Bata Casual Loafers",
+    "category": "loafers",
+    "color": "tan",
+    "description": "Comfortable tan loafers for semi-formal occasions"
+  },
+  {
+    "id": 8,
+    "name": "Crocs Classic Clogs",
+    "category": "sandals",
+    "color": "green",
+    "description": "Lightweight green Crocs for casual indoor/outdoor wear"
+  },
+  {
+    "id": 9,
+    "name": "Nike Revolution 6",
+    "category": "running shoes",
+    "color": "grey",
+    "description": "Everyday running shoes with responsive cushioning"
+  },
+  {
+    "id": 10,
+    "name": "Red Tape Oxford Shoes",
+    "category": "formal shoes",
+    "color": "black",
+    "description": "Elegant black leather shoes for formal events"
+  }
+]
